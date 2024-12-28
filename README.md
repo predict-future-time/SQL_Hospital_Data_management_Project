@@ -1,4 +1,4 @@
-# SQL_Healthcare_Data_Management
+# Hospital Data Management & Analysis - Microsost SQL Server
 
 Problem Statement:
 
