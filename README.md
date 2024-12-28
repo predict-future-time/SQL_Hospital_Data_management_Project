@@ -25,6 +25,9 @@ Doctors Table: doctor_id (PK), doctor_name, specialization, department
 
 Medical Records Table: record_id (PK), patient_id (FK), admission_date, discharge_date, diagnosis, treatment, doctor_id (FK)
 
+![image](https://github.com/user-attachments/assets/88ac521e-85c4-439e-95c1-7cd82e5fd74c)
+
+
 SQL Analysis:
 
 1) The percentage of male and female patients in the database was calculated.
@@ -43,9 +46,12 @@ SQL Analysis:
 14) Patients whose total hospital charges exceeded a certain threshold were found.
 15) The percentage change in the number of patients admitted each month compared to the previous month was calculated.
 
-![Health_sql1](https://github.com/user-attachments/assets/8b5cda69-6b88-4154-9b7a-dbf741ada0f5)
+![Health_sql1](https://github.com/user-attachments/assets/d0060521-fad6-46a2-9287-ddcc99ec06fa)
+
+![Health_sql2](https://github.com/user-attachments/assets/1744f1ab-9aa6-484a-835b-de9f12443656)
 
 
-![image](https://github.com/user-attachments/assets/ebc720b0-ee6f-4813-8ffd-ee99c8e5fcef)
+
+
 
 
